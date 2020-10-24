@@ -1,7 +1,7 @@
 Getting and Cleaning Data - Course Project
 ==========================================
 
-# Modifications commited to the original file.
+## Modifications commited to the original file.
 
 * Merging :- training set + test -> new data set
 * Extraction :-  only the measurements on the mean and standard deviation
@@ -9,7 +9,7 @@ Getting and Cleaning Data - Course Project
 * Labeling the data set with descriptive variable names.
 * Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-# Descriptions
+## Descriptions
 
 ### Identififiers
 The first two columns - Subject (ID of the Subject) and Activity (Activity performed by the subject when measurements were taken) - are Identifiers.
